@@ -1,5 +1,1 @@
-Source Code for validating User Input Using JOI
-
-https://youtu.be/PwUoiTt2oKM
-
-Noobcoder.com
+This is a basic user input validation using JOI
